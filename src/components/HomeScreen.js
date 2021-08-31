@@ -1,5 +1,5 @@
 import React from "react";
-import "./HomeScreen.css";
+import "./css/HomeScreen.css";
 import Nav from "./Nav";
 import Banner from "./Banner";
 
